@@ -5,7 +5,7 @@ Hey there, I'm Dipali Sonawane, but you can just call me Dips. I'm a graduate fr
 I'm always eager to collaborate on exciting projects and explore innovative ideas, so don't hesitate to reach out! Connect with me here to share your thoughts or simply say hello:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dipalisonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipali-sonawane-a5a147230/)](https://www.linkedin.com/in/dipali-sonawane-a5a147230/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dipalinsonawane1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dipalinsonawane1999@gmail.com)](mailto:dipalinsonawane1999@gmail.com)
 
 ## ⚡ Technologies
 
