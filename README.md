@@ -26,6 +26,7 @@ I'm always eager to collaborate on exciting projects and explore innovative idea
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dips2022)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dips2022&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dips2022)
