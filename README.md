@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Hey there, I'm Dipali Sonawane, but you can just call me Dips. I'm a graduate from Savitribai Phule Pune University, where I delved into the world of computer science. While I'm passionate about technology, my interests aren't confined to the digital realm alone. When I'm not coding or debugging, you'll often find me experimenting with new recipes in the kitchen or embarking on adventures to discover hidden gems in different corners of the world.
 
