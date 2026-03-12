@@ -1,8 +1,25 @@
-## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hi 👋 I'm Dipali Sonawane
 
-Hey there, I'm Dipali Sonawane, but you can just call me Dips. I'm a graduate from Savitribai Phule Pune University, where I delved into the world of computer science. While I'm passionate about technology, my interests aren't confined to the digital realm alone. When I'm not coding or debugging, you'll often find me experimenting with new recipes in the kitchen or embarking on adventures to discover hidden gems in different corners of the world.
+QA Engineer with experience in manual and automation testing.  
+I enjoy improving software quality and learning new technologies.
 
-I'm always eager to collaborate on exciting projects and explore innovative ideas, so don't hesitate to reach out! Connect with me here to share your thoughts or simply say hello:
+## 🚀 About Me
+- QA Engineer
+- Experience in iOS Automation Testing
+- Interested in Software Testing and Quality Assurance
+- Always learning new tools and technologies
+
+## 📍 Location
+India
+
+## 🔗 Connect with Me
+LinkedIn: https://www.linkedin.com/in/dipali-sonawane-a5a147230/
+
+
+## 💡 Interests
+- Software Testing
+- Automation Testing
+- Learning new technologies
 
 [![Linkedin Badge](https://img.shields.io/badge/-dipalisonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipali-sonawane-a5a147230/)](https://www.linkedin.com/in/dipali-sonawane-a5a147230/)
 [![Gmail Badge](https://img.shields.io/badge/-dipalinsonawane1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dipalinsonawane1999@gmail.com)](mailto:dipalinsonawane1999@gmail.com)
