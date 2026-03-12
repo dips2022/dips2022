@@ -1,49 +1,60 @@
 # Hi 👋 I'm Dipali Sonawane
 
-QA Engineer with experience in manual and automation testing.  
-I enjoy improving software quality and learning new technologies.
+QA Engineer passionate about software testing and quality assurance.  
+I enjoy improving software quality and continuously learning new technologies.
+
+---
 
 ## 🚀 About Me
-- QA Engineer
+- QA Engineer with experience in Manual Testing
 - Experience in iOS Automation Testing
 - Interested in Software Testing and Quality Assurance
 - Always learning new tools and technologies
 
+---
+
 ## 📍 Location
 India
 
-## 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/dipali-sonawane-a5a147230/
+---
 
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/dipali-sonawane-a5a147230/
+- Email: dipalinsonawane1999@gmail.com
+
+ 
+---
+
+## ⚡ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 💡 Interests
 - Software Testing
 - Automation Testing
 - Learning new technologies
 
-[![Linkedin Badge](https://img.shields.io/badge/-dipalisonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipali-sonawane-a5a147230/)](https://www.linkedin.com/in/dipali-sonawane-a5a147230/)
-[![Gmail Badge](https://img.shields.io/badge/-dipalinsonawane1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dipalinsonawane1999@gmail.com)](mailto:dipalinsonawane1999@gmail.com)
+---
 
-## ⚡ Technologies
+## 📊 GitHub Stats
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dips2022&show_icons=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dips2022)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dips2022&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dips2022)
+
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dips2022)
