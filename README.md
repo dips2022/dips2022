@@ -1,16 +1,20 @@
 # Hi 👋 I'm Dipali Sonawane
+QA Engineer from India
 
 QA Engineer passionate about software testing and quality assurance.  
 I enjoy improving software quality and continuously learning new technologies.
 
 ---
 
-## 🚀 About Me
-- QA Engineer with experience in Manual Testing
-- Experience in iOS Automation Testing
-- Interested in Software Testing and Quality Assurance
-- Always learning new tools and technologies
+🌱 I’m currently strengthening my skills
 
+Automation Testing (Selenium, Cypress, Appium)
+
+Mobile Automation (WebdriverIO)
+
+API Testing (Postman)
+
+Test Frameworks (TestNG, POM, Data-Driven)
 ---
 
 ## 📍 Location
@@ -25,6 +29,9 @@ India
 
  
 ---
+💬 Ask me about
+
+Selenium, Cypress, Appium, WebdriverIO, TestNG, API Testing, Manual Testing, Automation Frameworks
 
 ## ⚡ Technologies & Tools
 
@@ -41,11 +48,74 @@ India
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+# 🛒 NopCommerce Automation Testing
 
-## 💡 Interests
-- Software Testing
-- Automation Testing
-- Learning new technologies
+## 🚀 About Project
+This project focuses on automation testing of the nopCommerce e-commerce website using Selenium WebDriver and TestNG. It covers key user flows like product selection, cart functionality, and order process.
+
+## 🛠 Tech Stack
+- Java  
+- Selenium WebDriver  
+- TestNG  
+- Apache POI (Excel)  
+- Extent Reports  
+
+## ⚙️ Features
+- Automated product selection and cart flow  
+- Data-driven testing using Excel  
+- Screenshot capture during execution  
+- Test reporting using Extent Reports  
+
+## ▶️ How to Run
+1. Clone the repository  
+2. Open in Eclipse/IntelliJ  
+3. Run TestNG test file  
+
+# 🚌 RedBus Automation Testing
+
+## 🚀 About Project
+Automation testing project for RedBus website using Selenium WebDriver. This project uses Page Object Model (POM) and Data-Driven Testing to validate bus search functionality.
+
+## 🛠 Tech Stack
+- Java  
+- Selenium WebDriver  
+- TestNG  
+- Apache POI  
+
+## ⚙️ Features
+- POM-based framework  
+- Data-driven testing using Excel  
+- Automated bus search (source, destination, date)  
+- Dynamic date handling  
+
+## ▶️ How to Run
+1. Clone the repository  
+2. Open in IDE  
+3. Run TestNG test  
+
+# 📱 Banjara Ride Mobile Automation
+
+## 🚀 About Project
+This project automates the Banjara Ride Android application using Appium. It covers end-to-end ride booking flow including navigation, bike selection, and booking.
+
+## 🛠 Tech Stack
+- Java  
+- Appium  
+- TestNG  
+- Extent Reports  
+
+## ⚙️ Features
+- Mobile automation using Appium  
+- Ride booking flow testing  
+- Alert handling and navigation  
+- UIAutomator and XPath usage  
+
+## ▶️ How to Run
+1. Start Appium server  
+2. Connect Android device/emulator  
+3. Run TestNG test  
+
+
 
 ---
 
@@ -58,3 +128,5 @@ India
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dips2022)
+
+
